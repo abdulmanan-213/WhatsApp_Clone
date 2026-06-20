@@ -1,0 +1,21 @@
+{
+  "chats": [
+    { "id": "1", "name": "Abdul Manan", "message": "Physics chap 1.docx", "time": "Yesterday", "avatar": "https://i.pravatar.cc/150?img=11", "unread": 0 },
+    { "id": "2", "name": "Alina", "message": "Yes", "time": "10:56 AM", "avatar": "https://i.pravatar.cc/150?img=26", "unread": 2 },
+    { "id": "3", "name": "Batch F23-SE", "message": "~Affan UI Abidin", "time": "Yesterday", "avatar": "https://i.pravatar.cc/150?img=3", "unread": 0 },
+    { "id": "4", "name": "Hassan", "message": "Bro assignment submit karni hai", "time": "9:12 AM", "avatar": "https://i.pravatar.cc/150?img=12", "unread": 1 },
+    { "id": "5", "name": "Sara Khan", "message": "Ok done 👍", "time": "Yesterday", "avatar": "https://i.pravatar.cc/150?img=23", "unread": 0 },
+    { "id": "6", "name": "Usman Ali", "message": "Meeting at 5 PM today", "time": "8:45 AM", "avatar": "https://i.pravatar.cc/150?img=14", "unread": 0 },
+    { "id": "7", "name": "Project Team", "message": "Design final kar lo guys", "time": "Monday", "avatar": "https://i.pravatar.cc/150?img=57", "unread": 3 },
+    { "id": "8", "name": "Ayesha", "message": "Sent you the file", "time": "Yesterday", "avatar": "https://i.pravatar.cc/150?img=28", "unread": 0 },
+    { "id": "9", "name": "Ali Raza", "message": "Call me when free", "time": "7:30 PM", "avatar": "https://i.pravatar.cc/150?img=51", "unread": 0 },
+    { "id": "10", "name": "Class Group", "message": "Quiz postponed to Friday", "time": "Yesterday", "avatar": "https://i.pravatar.cc/150?img=60", "unread": 5 }
+  ],
+  "profileMenu": [
+    { "id": "1", "icon": "person-outline", "title": "Profile", "subtitle": "Name, profile picture" },
+    { "id": "2", "icon": "key-outline", "title": "Account", "subtitle": "Security notifications" },
+    { "id": "3", "icon": "lock-closed-outline", "title": "Privacy", "subtitle": "Blocked contacts" },
+    { "id": "4", "icon": "chatbox-outline", "title": "Chats", "subtitle": "Theme, wallpaper" },
+    { "id": "5", "icon": "notifications-outline", "title": "Notifications", "subtitle": "Message alerts" }
+  ]
+}
