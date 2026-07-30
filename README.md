@@ -1,6 +1,6 @@
 # React Native WhatsApp Clone with Meta AI 📱✨
 
-A high-fidelity cross-platform **WhatsApp Clone** built using **React Native**, **TypeScript**, and **Expo Go**. The repository encapsulates a fully simulated software architecture complete with dynamic message state triggers, real-time visual indicator feedbacks, and an integrated contextual **Meta AI Sparkle Assistant**.
+A modern, feature-rich WhatsApp Clone developed using React Native, TypeScript, and Expo. The application recreates the core user experience of WhatsApp while integrating a simulated Meta AI Assistant capable of responding to engineering-related prompts. The project emphasizes clean architecture, reusable components, responsive UI design, and realistic messaging behavior suitable for learning React Native application development.
 
 ---
 
